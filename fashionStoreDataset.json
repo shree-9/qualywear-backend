@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Admin User",
+      "email": "admin@qualywear.com",
+      "password": "$2a$10$TkhhZbJq6mP4MNJxGPuRCOS0U0/6Qrl8mMeFovowqOk.5VogpL7Ti",
+      "isAdmin": true
+    },
+    {
+      "name": "Shree Ji",
+      "email": "shreeji@qualywear.com",
+      "password": "$2a$10$TkhhZbJq6mP4MNJxGPuRCOS0U0/6Qrl8mMeFovowqOk.5VogpL7Ti",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "name": "Classic White Shirt",
+      "category": "Men",
+      "price": 1499,
+      "brand": "QualyWear",
+      "countInStock": 30,
+      "rating": 4.5,
+      "numReviews": 4,
+      "description": "Pure cotton slim-fit white shirt — breathable and stylish.",
+      "image": "https://images.unsplash.com/photo-1593032465171-8b7a5c67d0ff?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Red Elegant Dress",
+      "category": "Women",
+      "price": 2999,
+      "brand": "QualyWear",
+      "countInStock": 15,
+      "rating": 4.9,
+      "numReviews": 6,
+      "description": "Elegant red dress perfect for evening events and parties.",
+      "image": "https://images.unsplash.com/photo-1602810311377-1a1a253c9a8f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Men’s Blue Denim Jacket",
+      "category": "Men",
+      "price": 2499,
+      "brand": "Urban Edge",
+      "countInStock": 20,
+      "rating": 4.6,
+      "numReviews": 8,
+      "description": "High-quality blue denim jacket with inner fleece lining.",
+      "image": "https://images.unsplash.com/photo-1618354698663-fb687de20d95?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Women’s White Sneakers",
+      "category": "Women",
+      "price": 2199,
+      "brand": "StepUp",
+      "countInStock": 25,
+      "rating": 4.7,
+      "numReviews": 12,
+      "description": "Trendy and comfortable white sneakers — perfect daily wear.",
+      "image": "https://images.unsplash.com/photo-1606813909027-0126e836b301?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Silver Chain Necklace",
+      "category": "Accessories",
+      "price": 799,
+      "brand": "GlamHub",
+      "countInStock": 50,
+      "rating": 4.3,
+      "numReviews": 5,
+      "description": "Minimalistic silver chain necklace that pairs with any outfit.",
+      "image": "https://images.unsplash.com/photo-1603052875078-4e0b9c0e9dc0?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Aviator Sunglasses",
+      "category": "Accessories",
+      "price": 1199,
+      "brand": "LensCraft",
+      "countInStock": 30,
+      "rating": 4.2,
+      "numReviews": 4,
+      "description": "Stylish UV-protected aviator sunglasses for men & women.",
+      "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
